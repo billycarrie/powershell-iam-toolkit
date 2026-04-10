@@ -1,6 +1,6 @@
 # **PowerShell IAM Toolkit**
 
-> Automation scripts for day-to-day Identity & Access Management operations — built for Microsoft Entra ID in retail/ecommerce SMB environments.
+> Automation scripts for day-to-day Identity & Access Management operations — built for Microsoft Entra ID in SMB environments.
 
 ## **Status**
 
